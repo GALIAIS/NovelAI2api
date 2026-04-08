@@ -1,0 +1,9 @@
+{
+  "http_addr": ":18787",
+  "session_ttl": "24h",
+  "session_secret": "dev-secret-change-me",
+  "novelai_api_base": "https://api.novelai.net",
+  "novelai_image_base": "https://image.novelai.net",
+  "novelai_text_base": "https://text.novelai.net",
+  "log_level": "info"
+}

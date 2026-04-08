@@ -1,0 +1,14 @@
+# Build artifacts
+server.exe
+
+# Runtime output
+output/
+
+# Local JS deps
+node_modules/
+
+# Local/private docs and captures
+llm.md
+novelai_protocol_reverse.md
+protocol_capture/
+scripts/
