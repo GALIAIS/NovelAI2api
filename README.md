@@ -99,3 +99,7 @@ go build -o server.exe ./cmd/server
 - `internal/service`：业务层
 - `internal/novelai`：上游 NovelAI 客户端
 - `internal/model`：请求/响应模型
+
+## 致谢
+
+本项目已在 [LINUX DO 社区](https://linux.do) 发布，感谢社区的支持与反馈。
